@@ -1,2 +1,1 @@
-This is test in cli 
-done
+This is test in cli line
