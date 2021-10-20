@@ -1,3 +1,2 @@
 This is test in cli line
 finally done
-modified origin
