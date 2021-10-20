@@ -1,2 +1,2 @@
 This is test in cli line
-um finally done
+finally done
